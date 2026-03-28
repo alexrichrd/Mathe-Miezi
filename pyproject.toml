@@ -1,0 +1,17 @@
+[project]
+name = "miss-honey"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "detect-secrets>=1.5.0",
+    "langchain>=1.2.13",
+    "langchain-anthropic>=1.4.0",
+    "langchain-classic>=1.0.3",
+    "langchain-openai>=1.1.12",
+    "pydantic>=2.12.5",
+    "python-dotenv>=1.2.2",
+    "ruff>=0.15.8",
+    "streamlit>=1.55.0",
+]
