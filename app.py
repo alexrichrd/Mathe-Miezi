@@ -26,12 +26,12 @@ UI = {
 
 GREETINGS = {
     "italian": [
-        "Ciao! Sono qui per aiutarti con la matematica 🐾",
+        "Ciao! Sono qui per aiutarti con la matematica",
         "Benvenuta! Cosa studiamo oggi? 📐",
         "Ciao! Pronta per un po' di matematica? 🌟",
     ],
     "german": [
-        "Hallo! Ich helfe dir gerne bei Mathe 🐾",
+        "Hallo! Ich helfe dir gerne bei Mathe",
         "Willkommen! Was üben wir heute? 📐",
         "Hallo! Bereit für Mathematik? 🌟",
     ],
